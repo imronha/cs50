@@ -1,0 +1,5 @@
+1. Prompt user for input (number)
+2. Check if valid number
+3. If not valid, reprompt user for input
+4. If valid, execute loop
+5. Iterate from 1 - input
